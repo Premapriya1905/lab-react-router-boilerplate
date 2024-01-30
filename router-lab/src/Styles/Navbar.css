@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+}
+.header{
+    background-color: black;
+    display: flex;
+    border: 2px solid white;
+    
+}
+#contacts{
+    margin-right: 5vw;
+}
+#head{
+    display: flex;
+    margin-left: 75vw;
+    align-items: center;
+    justify-content: space-between;
+}
+h3{
+    color: white;
+}
+.div{
+    color: white;
+    text-align: center;
+    margin-top: 5vw;
+}
+#squad{
+    color: white;
+}
